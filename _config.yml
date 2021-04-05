@@ -33,7 +33,7 @@ round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "/assets/img/psy4bots_logo.png"
 
 
 # --- Footer social media links --- #
@@ -104,7 +104,7 @@ navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
-hover-col: "#0085A1"
+hover-col: "#FFFFFF"
 footer-col: "#000000"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#FFFFFF"
