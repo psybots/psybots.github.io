@@ -14,7 +14,7 @@ author: Rebecca Stower and Benedikt Leichtmann
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutus"
+  About Us: "aboutme"
   Resources:
     - Communities:
     - Research Design + Statistics:
