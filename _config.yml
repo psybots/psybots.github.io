@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Communities:
     - Research Design + Statistics:
-  Upcoming Events:
+  Upcoming Events: "events"
   Journals, Conferences, and Events in HRI:
 
 # --- Logo --- #
