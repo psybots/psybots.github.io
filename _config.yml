@@ -15,11 +15,12 @@ author: Rebecca Stower and Benedikt Leichtmann
 
 navbar-links:
   About Us: "aboutme"
+  Blog: "blog"
   Resources:
-    - Communities:
-    - Research Design + Statistics:
-  Upcoming Events: "events"
-  Journals, Conferences, and Events in HRI:
+    - Communities: "communities"
+    - Research Design + Statistics: "stats"
+  Upcoming: "events"
+  HRI Events:
 
 # --- Logo --- #
 
