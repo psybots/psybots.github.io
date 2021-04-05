@@ -26,7 +26,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/psy4bots_logo.png"
+#avatar: "/assets/img/psy4bots_logo.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: false
@@ -98,14 +98,14 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#000000"
+navbar-col: "#ED7D31"
 navbar-text-col: "#FFFFFF"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
-hover-col: "#FFFFFF"
-footer-col: "#000000"
+hover-col: "##ED7D31"
+footer-col: "#ED7D31"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#FFFFFF"
 
