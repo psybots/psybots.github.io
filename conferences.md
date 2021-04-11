@@ -31,7 +31,7 @@ Conferences are ordered by date, so conferences at the top of the list likely ha
     <th rowspan="2"><br>Conference</th>
     <th rowspan="2"><br>Dates</th>
     <th rowspan="2"><br>Location/ Format</th>
-    <th colspan="5">Deadlines</th>
+    <th colspan="5"> style="text-align:center" Deadlines</th>
   </tr>
   <tr>
     <td>Full Papers</td>
