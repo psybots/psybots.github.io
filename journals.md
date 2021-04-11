@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Journals
-subtitle: Popular journal venues for HRI papers
+subtitle: Some popular journal venues for submitting HRI papers
 ---
 Below is a list of some of the journals which publish papers on human-robot interaction. The list is not intended to be comprehensive, and focuses specifically on social robotics (meaning journals which have more of an engineering focus are not listed). H-indexes and Impact Factors are taken from [Scimago](https://www.scimagojr.com/) and thus may differ from other sources (e.g., Google scholar or the journals themselves). We also acknowledge journal metrics are not always the best way to evaluate whether a journal is an appropriate venue - we include them here to provide some point of comparison between the different venues. If you have a suggestion to add to the list, you can email us at psybots@gmail.com.
 
