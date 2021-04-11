@@ -1,4 +1,4 @@
-##Rebecca Stower
+**Rebecca Stower**
 
 What does it mean to be an interdisciplinary scientist? When I started my PhD in social robotics, I thought I would have to convince my peers to accept me as an equal, primed with years of hearing that psychology is a ‘soft’ science, less valid than engineering, computer science, maths or physics (after all, there is no ‘P’ in ‘STEM’). At the same time, I felt incredibly self-conscious that I was starting a PhD program in social robotics without ever having written a line of code. However, these fears turned out to be unfounded - my fellow PhD students in engineering and computer science never once suggested that psychology wasn’t a real science, that their degrees were harder, or that I didn’t deserve to be there. Instead many approached me with questions about research design and statistics, with a genuine interest in bettering their research through psychology. 
 
