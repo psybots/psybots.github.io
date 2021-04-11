@@ -43,7 +43,7 @@ Conferences are ordered by date, so conferences at the top of the list likely ha
 </thead>
 <tbody>
   <tr>
-    <td><a href="https://aamas2021.soton.ac.uk/">[AAMAS2021](https://aamas2021.soton.ac.uk/)</a></td>
+    <td><a href="https://aamas2021.soton.ac.uk/">[AAMAS2021]</a></td>
     <td>May 3-7, 2021</td>
     <td>Virtual</td>
     <td>October 2, 2020</td>
