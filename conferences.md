@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conferences
-subtitle: Upcoming Conferences and Workshops in HRI
+subtitle: Upcoming Conferences in HRI
 ---
 On this page we describe the different kinds of conference publications and list some of the popular conferences in HRI. We have also included conferences which although do not focus on social robotics specifically, may contain tracks relevant to human robot interaction. 
 
