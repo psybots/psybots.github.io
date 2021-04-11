@@ -103,7 +103,7 @@ Conferences are ordered by date, so conferences at the top of the list likely ha
     <td><s>23 February, 2021</s><br></td>
   </tr>
   <tr>
-    <td><a href="https://icmi.acm.org/2021/index.php?id=home">ICMI2021</a> </td>
+    <td><a href="https://icmi.acm.org/2021/index.php?id=home">ICMI 2021</a> </td>
     <td>October 18-22, 2021</td>
     <td>Montreal</td>
     <td>May 26, 2021</td>
