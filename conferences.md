@@ -43,7 +43,7 @@ Conferences are ordered by date, so conferences at the top of the list likely ha
 </thead>
 <tbody>
   <tr>
-    <td><a href="https://aamas2021.soton.ac.uk/">AAMAS2021</a></td>
+    <td><a href="https://aamas2021.soton.ac.uk/">AAMAS 2021</a></td>
     <td>May 3-7, 2021</td>
     <td>Virtual</td>
     <td><s>October 2, 2020</s></td>
@@ -53,14 +53,14 @@ Conferences are ordered by date, so conferences at the top of the list likely ha
     <td><s>October 25, 2020</s></td>
   </tr>
   <tr>
-    <td><a href="https://chi2021.acm.org/">CHI2021</a></td>
+    <td><a href="https://chi2021.acm.org/">CHI 2021</a></td>
     <td>May 8-13, 2021</td>
     <td>Virtual</td>
-    <td>September 17, 2020</td>
-    <td>January 11, 2021</td>
-    <td>October 14, 2020</td>
-    <td>December 15th, 2020</td>
-    <td>November 24th, 2020</td>
+    <td><s>September 17, 2020</s></td>
+    <td><s>January 11, 2021</s></td>
+    <td><s>October 14, 2020</s></td>
+    <td><s>December 15th, 2020</s></td>
+    <td><s>November 24th, 2020</s></td>
   </tr>
   <tr>
     <td><a href="https://idc.acm.org/2021/">IDC 2021</a></td>
@@ -73,7 +73,7 @@ Conferences are ordered by date, so conferences at the top of the list likely ha
     <td><s>February 15, 2021</s></td>
   </tr>
   <tr>
-    <td><a href="https://ro-man2021.org/">ROMAN2021 </a></td>
+    <td><a href="https://ro-man2021.org/">RO MAN 2021 </a></td>
     <td>August 8-12, 2021</td>
     <td>Virtual</td>
     <td><s>April 6, 2021</s></td>
