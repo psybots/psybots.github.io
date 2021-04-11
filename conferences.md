@@ -73,7 +73,7 @@ Conferences are ordered by date, so conferences at the top of the list likely ha
     <td><s>February 15, 2021</s></td>
   </tr>
   <tr>
-    <td>a href="https://ro-man2021.org/">ROMAN2021 </a></td>
+    <td><a href="https://ro-man2021.org/">ROMAN2021 </a></td>
     <td>August 8-12, 2021</td>
     <td>Virtual</td>
     <td><s>April 6, 2021</s></td>
@@ -123,7 +123,7 @@ Conferences are ordered by date, so conferences at the top of the list likely ha
     <td>June 13, 2021</td>
   </tr>
   <tr>
-    <td><a href="https://humanrobotinteraction.org/2022/">[HRI 2022](https://humanrobotinteraction.org/2022/)</a></td>
+    <td><a href="https://humanrobotinteraction.org/2022/">HRI 2022</a></td>
     <td>March 7-10 2022</td>
     <td>Japan/Hybrid</td>
     <td>TBA</td>
