@@ -43,17 +43,17 @@ Conferences are ordered by date, so conferences at the top of the list likely ha
 </thead>
 <tbody>
   <tr>
-    <td><a href="https://aamas2021.soton.ac.uk/">[AAMAS2021]</a></td>
+    <td><a href="https://aamas2021.soton.ac.uk/">AAMAS2021</a></td>
     <td>May 3-7, 2021</td>
     <td>Virtual</td>
-    <td>October 2, 2020</td>
+    <td><s>October 2, 2020</s></td>
     <td>N/A</td>
-    <td>January 5, 2021</td>
+    <td><s>January 5, 2021</s></td>
     <td>N/A</td>
-    <td>October 25, 2020</td>
+    <td><s>October 25, 2020</s></td>
   </tr>
   <tr>
-    <td><a href="https://chi2021.acm.org/">[CHI2021](https://chi2021.acm.org/)</a></td>
+    <td><a href="https://chi2021.acm.org/">CHI2021</a></td>
     <td>May 8-13, 2021</td>
     <td>Virtual</td>
     <td>September 17, 2020</td>
