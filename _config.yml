@@ -19,8 +19,12 @@ navbar-links:
   Resources:
     - Communities: "communities"
     - Research Design + Statistics: "stats"
-  Upcoming: "events"
-  HRI Events:
+  Upcoming Events: "events"
+    - PsyBots Events: "psybots_events"
+    - Other Events: "other_events"
+  HRI Journals + Conferences:
+    - Journals: "journals"
+    - Conferences: "conferences"
 
 # --- Logo --- #
 
@@ -104,7 +108,7 @@ navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
-hover-col: "##ED7D31"
+hover-col: "#ED7D31"
 footer-col: "#ED7D31"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#FFFFFF"
