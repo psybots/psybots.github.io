@@ -12,4 +12,4 @@ Below is a list of some of the journals which publish papers on human-robot inte
 | [Science Robotics](https://robotics.sciencemag.org/ )                                                     | Science   | 30    | 5.126    | No                    |
 | [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai)                      | Frontiers | 21    | 2.639    | Yes - with fee        |
 | [ACM Transactions on Human Robot Interaction](https://dl.acm.org/journal/thri)    | ACM       | Not available   | Not available |             Yes - free until 2022 |
-| [Human Factors: The Journal of the Human Factors and Ergonomics Society] (https://journals.sagepub.com/home/hfs)  | Sage | 109  | 3.165 | Yes - with fee  |
+| [Human Factors: The Journal of the Human Factors and Ergonomics Society](https://journals.sagepub.com/home/hfs)  | Sage | 109  | 3.165 | Yes - with fee  |
