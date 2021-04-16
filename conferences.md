@@ -5,7 +5,6 @@ subtitle: Upcoming Conferences in HRI
 ---
 On this page we describe the different kinds of conference publications and list some of the popular conferences in HRI. We have also included conferences which although do not focus on social robotics specifically, may contain tracks relevant to human robot interaction. 
 
-## Note for interdisciplinary researchers 
 Depending on your research background, you may or may not come from a field where submitting and publishing in conference venues is common. Thus, we present a brief explanation below of the different kinds of conference submissions. It is also important to note that, depending on the venue, conference submissions can sometimes have a higher impact factor than journal venues. So, it is useful to consider both conference and journal venues when deciding on an avenue in which to publish your work. 
 
 ### Full Papers 
