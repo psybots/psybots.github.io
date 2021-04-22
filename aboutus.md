@@ -3,7 +3,7 @@ layout: page
 title: About Us
 ---
 
-PsyBots is a collaboration between Rebecca Stower and Benedikt Leichtmann intending to bring together interdisciplinary scientists in the filed of human-robot interaction. The pair met when Rebecca stalked Benedikt on twitter because he also wrote a meta-analysis. They quickly bonded over how terrible HRI researchers are at designing experiments and because both of them were the only psychologists in their respective teams. 
+PsyBots is a collaboration between Rebecca Stower and Benedikt Leichtmann intending to bring together interdisciplinary scientists in the field of human-robot interaction. It is a space to provide resources, share events, write blogs and connect with fellow PhD students and Early Career Researchers. 
 
 ## Organisers
 
