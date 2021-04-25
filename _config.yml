@@ -20,7 +20,7 @@ navbar-links:
   Resources:
     - Communities: "communities"
     - Research Design + Statistics: "stats"
-  Upcoming Events:
+  Events:
     - PsyBots Events: "psybots_events"
     - Other Events: "other_events"
   HRI Venues:
