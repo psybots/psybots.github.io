@@ -23,7 +23,7 @@ navbar-links:
   Upcoming Events:
     - PsyBots Events: "psybots_events"
     - Other Events: "other_events"
-  HRI Journals + Conferences:
+  HRI Venues:
     - Journals: "journals"
     - Conferences: "conferences"
 
