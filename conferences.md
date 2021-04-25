@@ -24,31 +24,17 @@ Below is a list of upcoming conferences and deadlines. We do not include all tra
 
 Conferences are ordered by date, so conferences at the top of the list likely have already had most of their deadlines pass. We will try to update this page as regularly as possible as new conference dates and deadlines are announced. If you would like to see a conference added to the list, you can email us at psy4bots@gmail.com or reach out to us on Twitter.
 
-<html>
-<head>
-<style>
-table, th, td {
-  border: 1px solid black;
-}
-table.center {
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-</head>
-<body>
-
-<table class="center">
+<table style="margin: 0px auto;">
 <thead>
   <tr>
     <th rowspan="2"><br>Conference</th>
     <th rowspan="2"><br>Dates</th>
-    <th rowspan="2"><br>Location &#47 Format</th>
+    <th rowspan="2"><br>Location/Format</th>
     <th colspan="5" style="text-align: center"> Deadlines</th>
   </tr>
   <tr>
     <td>Full Papers</td>
-    <td>LBR &#47 Work in Progress &#47 Extended Abstracts</td>
+    <td>LBR/Work in Progress/Extended Abstracts</td>
     <td>Doctoral Consortia</td>
     <td>Special Sessions</td>
     <td>Workshop Proposals</td>
