@@ -1,4 +1,4 @@
-**Rebecca Stower**
+** by Rebecca Stower**
 
 <img  src="/assets/img/research.jpg" alt = "Photo by Windows on Unsplash"/>
 
