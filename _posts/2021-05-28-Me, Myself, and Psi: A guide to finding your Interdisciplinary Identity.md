@@ -1,6 +1,6 @@
 **Rebecca Stower**
 
-<img  src="/assets/img/research.jpg" alt = "Photo by <a href="https://unsplash.com/@windows?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Windows </a> on href="https://unsplash.com/s/photos/research?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>"/>
+<img  src="/assets/img/research.jpg" alt = "Photo by Windows on Unsplash"/>
 
 ## Overcoming your ~~peers~~ fears 
 When I started my PhD,  I felt incredibly self-conscious that I was starting a doctoral program in social robotics without ever having written a line of code. I thought I would have to fight to convince my peers to accept me as an equal, primed with years of hearing that psychology is a ‘soft’ science, less valid than engineering, computer science, maths or physics. However, these fears turned out to be unfounded - my fellow PhD students in engineering and computer science never once suggested that psychology wasn’t a real science, that their degrees were harder, or that I didn’t deserve to be there. Instead many approached me with questions about research design and statistics, with a genuine interest in bettering their research through psychology. Such interactions made me realise there was only one person bringing these expectations to the table - myself. From this experience, I learned the importance of being open-minded when approaching peers from different disciplines, and to beware of not only what you think others' biases might be, but what your own are as well. 
