@@ -115,7 +115,7 @@ Conferences are ordered by date, so conferences at the top of the list likely ha
   <tr>
     <td><a href="http://www.colips.org/conferences/icsr2021/wp/">ICSR 2021</a></td>
     <td>November 10-13, 2021</td>
-    <td>Singapore/Hybrid</td>
+    <td>Singapore / Hybrid</td>
     <td>June 13, 2021</td>
     <td>N/A</td>
     <td>N/A</td>
@@ -125,7 +125,7 @@ Conferences are ordered by date, so conferences at the top of the list likely ha
   <tr>
     <td><a href="https://humanrobotinteraction.org/2022/">HRI 2022</a></td>
     <td>March 7-10 2022</td>
-    <td>Japan/Hybrid</td>
+    <td>Japan / Hybrid</td>
     <td>TBA</td>
     <td>TBA</td>
     <td>TBA</td>
