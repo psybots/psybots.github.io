@@ -29,12 +29,12 @@ Conferences are ordered by date, so conferences at the top of the list likely ha
   <tr>
     <th rowspan="2"><br>Conference</th>
     <th rowspan="2"><br>Dates</th>
-    <th rowspan="2"><br>Location/ Format</th>
+    <th rowspan="2"><br>Location &#47 Format</th>
     <th colspan="5" style="text-align: center"> Deadlines</th>
   </tr>
   <tr>
     <td>Full Papers</td>
-    <td>Late Breaking Reports /<br>Work in Progress / <br>Extended Abstracts</td>
+    <td>LBR &#47 Work in Progress &#47 Extended Abstracts</td>
     <td>Doctoral Consortium</td>
     <td>Special Sessions</td>
     <td>Workshop Proposals</td>
