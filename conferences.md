@@ -24,6 +24,20 @@ Below is a list of upcoming conferences and deadlines. We do not include all tra
 
 Conferences are ordered by date, so conferences at the top of the list likely have already had most of their deadlines pass. We will try to update this page as regularly as possible as new conference dates and deadlines are announced. If you would like to see a conference added to the list, you can email us at psy4bots@gmail.com or reach out to us on Twitter.
 
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+
 <table class="center">
 <thead>
   <tr>
