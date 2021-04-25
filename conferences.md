@@ -22,7 +22,7 @@ Workshops are intended to focus on a specific topic within a conference (e.g., c
 ## Upcoming Conferences
 Below is a list of upcoming conferences and deadlines. We do not include all tracks for all conferences (e.g., some conferences also have design tracks or demos). Instead, we focus on the main types of submissions and deadlines. For more detailed info regarding the different types of submissions, acceptance notifications, and camera ready deadlines you can visit the linked conference website. Also due to the large number of workshops in each conference, we do not list all of them here. Instead, you can visit the conference website to check if the list of accepted workshops has been announced, and what the due dates are for submissions. 
 
-Conferences are ordered by date, so conferences at the top of the list likely have already had most of their deadlines pass. We will try to update this page as regularly as possible as new conference dates and deadlines are announced. If you would like to see a conference added to the list, you can email us at psy4bots@gmail.com.
+Conferences are ordered by date, so conferences at the top of the list likely have already had most of their deadlines pass. We will try to update this page as regularly as possible as new conference dates and deadlines are announced. If you would like to see a conference added to the list, you can email us at psy4bots@gmail.com or reach out to us on Twitter.
 
 <table class="center">
 <thead>
@@ -35,7 +35,7 @@ Conferences are ordered by date, so conferences at the top of the list likely ha
   <tr>
     <td>Full Papers</td>
     <td>LBR &#47 Work in Progress &#47 Extended Abstracts</td>
-    <td>Doctoral Consortium</td>
+    <td>Doctoral Consortia</td>
     <td>Special Sessions</td>
     <td>Workshop Proposals</td>
   </tr>
