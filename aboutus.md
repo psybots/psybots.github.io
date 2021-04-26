@@ -13,6 +13,11 @@ PsyBots is a collaboration between Rebecca Stower and Benedikt Leichtmann intend
 
 Rebecca is completing her PhD program at Jacobs University Bremen and is currently a visiting researcher at the Institut des Systèmes Intelligents et de Robotique at Sorbonne Université. She has a Bachelor of Psychological Science (Honours First Class) from the University of Queensland, Australia (2016). Her dissertation centres on the conceptualisation and measurement of children’s trust in robots, and in particular, the occurrence of robot errors during child-robot interactions. Outside of her research, she enjoys staying active with yoga and running, and sampling all the different kinds of cheese europe has to offer. 
 
+
+
+
+
+
 ### Benedikt Leichtmann
 
 <img style="float: left; padding-right:15px" src="/assets/img/2021_Benedikt_Linz.jpg" alt="Benedikt Leichtmann" width="300"/>
