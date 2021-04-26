@@ -15,4 +15,6 @@ Rebecca is completing her PhD program at Jacobs University Bremen and is current
 
 ### Benedikt Leichtmann
 
+<img style="float: left; padding-right:15px" src="/assets/img/2021_Benedikt_Linz.jpg" alt="Benedikt Leichtmann" width="300"/>
+
 Benedikt is a Research Assistant at the LIT Robopsychology Lab Linz at Johannes Kepler University Linz, Austria. He has a Bachelor (2014) and Master of Science (2016) in Psychology from Ulm University. He then worked as research assistant and doctoral student in interdisciplinary teams with multiple industry and scientific partners at the Human Factors Institute at the Bundeswehr University Munich Germany and at the Institute of Industrial Engineering and Ergonomics at RWTH Aachen University Germany. His research mainly focuses on the psychological aspects of human-machine interaction such as robots and AI, with the goal of creating user-centered intercation designs and the socially acceptable implementation of new technology. He submitted his doctoral thesis in early 2021 on the social-psychological perspective on HRI at RWTH Aachen University Germany.
