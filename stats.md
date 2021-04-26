@@ -10,3 +10,5 @@ If you have a suggestion to add to the list, you can email us at psy4bots@gmail.
 | **Type** | **Name**                                 | **Short Description**  |
 |-------------------|------------------------------------------|----------------------------------------------|
 | Online Course | [Impoving your statistical inferences](https://www.coursera.org/learn/statistical-inferences)             | The goal of this online Coursera course by Daniel Lakens is "to help you to draw better statistical inferences from empirical research". You will leran about p-values, effect sizes, confidence intervals, Bayes Factors, pre-registration, replicability and more.  |
+| Software | [JASP](https://jasp-stats.org/) | A lot of you may know R for statistical analyses of empirical data. But have you heard of JASP? It's free and easy and might be helpful for you. |
+| Website | [Wolfgang Viechtbauer's Website](https://www.wvbauer.com/doku.php) | Do you plan to do a meta-analysis? Then Wolfgang Viechtbauer's Website might be a valuable ressource for you. But it's not only great for meta-analysis, there are plenty of other useful information on stats and R. |
