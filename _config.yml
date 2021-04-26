@@ -16,7 +16,7 @@ author: Rebecca Stower and Benedikt Leichtmann
 navbar-links:
   Home: "index"
   About Us: "aboutus"
-  #Blog: "blog/index"
+  Blog: "blog/index"
   Resources:
     - Communities: "communities"
     - Research Design + Statistics: "stats"
