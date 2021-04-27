@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Me, Me, Myself, and Psi: A guide to finding your Interdisciplinary Identity
 subtitle: by Rebecca Stower
 tags: [psychology, PhD, interdisciplinary, blog, personal]
