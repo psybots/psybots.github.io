@@ -4,7 +4,7 @@ title: HRI Events
 subtitle: Other events which might be of interest to the PsyBots community
 ---
 
-Here we share upcoming and regular events that might be interesting to HRI researchers, such as summerschools, workshops, presentations/talks and other events to network and share your knowledge with other researchers.
+Here we share upcoming and regular events that might be interesting to HRI researchers, such as summerschools, workshops, presentations/talks and other events to network and share your knowledge or discuss up-to-date research.
 If you have a suggestion to add to the list, you can email us at psy4bots@gmail.com or reach out to us on Twitter.
 
 | **Type** | **Name**                                 | **Short Description**  |   **Date**     |
