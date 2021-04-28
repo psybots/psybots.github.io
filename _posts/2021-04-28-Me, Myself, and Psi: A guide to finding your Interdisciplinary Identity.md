@@ -3,6 +3,7 @@ layout: post
 subtitle: by Rebecca Stower
 tags: [psychology, PhD, interdisciplinary, blog, personal]
 readtime: true
+cover-img: "/assets/img/research.jpg"
 ---
 
 ## Overcoming your ~~peers~~ fears 
