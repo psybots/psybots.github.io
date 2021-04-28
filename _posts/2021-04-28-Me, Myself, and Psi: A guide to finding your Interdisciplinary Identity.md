@@ -1,9 +1,9 @@
 ---
 layout: post
+subtitle: by Rebecca Stower
 tags: [psychology, PhD, interdisciplinary, blog, personal]
 readtime: true
 ---
-
 <img  src="/assets/img/research.jpg" alt = "Photo by Windows on Unsplash"/>
 
 ## Overcoming your ~~peers~~ fears 
