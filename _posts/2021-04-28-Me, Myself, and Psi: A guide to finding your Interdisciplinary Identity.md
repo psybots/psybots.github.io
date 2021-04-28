@@ -3,8 +3,8 @@ layout: post
 subtitle: by Rebecca Stower
 tags: [psychology, PhD, interdisciplinary, blog, personal]
 readtime: true
+cover-img: [/assets/img/research.jpg" : "Photo by <a href="https://unsplash.com/@windows?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Windows</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>"]
 ---
-<img  src="/assets/img/research.jpg" alt = "Photo by Windows on Unsplash"/>
 
 ## Overcoming your ~~peers~~ fears 
 When I started my PhD,  I felt incredibly self-conscious that I was starting a doctoral program in social robotics without ever having written a line of code. I thought I would have to fight to convince my peers to accept me as an equal, primed with years of hearing that psychology is a ‘soft’ science, less valid than engineering, computer science, maths or physics. Even now, receiving emails targeted at 'women in STEM' fills me with a tiny pang of guilt. Imposter syndrome is no stranger to many PhD candidates, and working among peers with completely different skillsets and backgrounds to you can amplify those feelings just a little more.
