@@ -5,7 +5,7 @@ subtitle: Here are some helpful resources, from designing experiments to conduct
 ---
 
 Below we have compiled a small list of resources for you about research methods and statistics. Note that this list is just based on personal recommendations of the PsyBots team or recommendations of other Psyboticists - there are plenty of awesome ressources out there, we just listed a few things we thought could be useful for others. Also note that PsyBots is not related to the content of these resources. 
-If you have a suggestion to add to the list, you can email us at psy4bots@gmail.com or reach out to as on Twitter.
+If you have a suggestion to add to the list, you can email us at psy4bots@gmail.com or reach out to us on Twitter.
 
 | **Type** | **Name**                                 | **Short Description**  |
 |-------------------|------------------------------------------|----------------------------------------------|
