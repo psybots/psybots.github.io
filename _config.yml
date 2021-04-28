@@ -14,7 +14,7 @@ author: Rebecca Stower and Benedikt Leichtmann
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  #Home: "index"
+  Home: "index"
   About Us: "aboutus"
   Blog: "blog/index"
   Resources:
